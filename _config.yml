@@ -80,8 +80,8 @@ analytics:
 
 # Site Author
 author:
-  name             : "Di Wu"
-  avatar           : "avatar.png"
+  name             : &name
+  avatar           : &avatar
   bio              : "I am a second-year PhD student at University of St Andrews."
   location         : "St Andrews, UK"
   employer         :
