@@ -7,10 +7,10 @@
 
 # Site Settings
 locale                   : "en-UK"
-title                    : "Di Wu / PhD Student"
+title                    : "Di Wu"
 title_separator          : "-"
 name                     : &name "Di Wu"
-description              : &description "personal description"
+description              : &description "I am a second-year PhD student at University of St Andrews."
 url                      : https://wonderdiwu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "academicpages/academicpages.github.io"
