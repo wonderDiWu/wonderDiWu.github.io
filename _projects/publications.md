@@ -6,7 +6,6 @@ redirect_from:
   - /md/
   - /publications.html
 ---
----
 
 
 
