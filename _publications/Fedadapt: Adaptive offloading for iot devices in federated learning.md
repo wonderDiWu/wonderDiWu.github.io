@@ -1,3 +1,12 @@
+---
+permalink: /publications/
+title: "publications"
+author_profile: true
+redirect_from: 
+  - /md/
+  - /publications.html
+---
+
 # FedAdapt: Adaptive Offloading for IoT Devices in Federated Learning
 
 ### About the research
