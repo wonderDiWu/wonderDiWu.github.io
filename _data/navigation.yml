@@ -3,17 +3,22 @@ main:
   - title: "Publications"
     url: /publications/
 
-  - title: "Work"
-    url: /talks/    
+  - title: "Project"
+    url: /teaching/ 
 
-  - title: "Teaching"
-    url: /teaching/    
-        
-  - title: "Blog Posts"
-    url: /year-archive/
+  - title: "Funding and Scholarship"
+    url: /teaching/ 
+
+  - title: "Teaching Experience"
+    url: /teaching/ 
+
+  - title: "Work Experience"
+    url: /talks/      
+
+  - title: "Activities"
+    url: /markdown/
     
   - title: "CV"
     url: /cv/
-    
-  - title: "Activities"
-    url: /markdown/
+  
+  
