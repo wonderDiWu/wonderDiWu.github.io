@@ -7,16 +7,16 @@ main:
     url: /project/ 
 
   - title: "Funding and Scholarship"
-    url: /teaching/ 
+    url: /funding/ 
 
   - title: "Teaching"
     url: /teaching/ 
 
   - title: "Work Experience"
-    url: /talks/      
+    url: /work/      
 
   - title: "Activities"
-    url: /markdown/
+    url: /activities/
     
   - title: "CV"
     url: /cv/
