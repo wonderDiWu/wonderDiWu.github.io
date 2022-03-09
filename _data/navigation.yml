@@ -6,13 +6,13 @@ main:
   - title: "Project"
     url: /project/ 
 
-  - title: "Funding and Scholarship"
+  - title: "Funding"
     url: /funding/ 
 
   - title: "Teaching"
     url: /teaching/ 
 
-  - title: "Work Experience"
+  - title: "Work"
     url: /work/      
 
   - title: "Activities"
