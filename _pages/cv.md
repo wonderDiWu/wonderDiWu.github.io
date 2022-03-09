@@ -9,4 +9,4 @@ redirect_from:
 
 {% include base_path %}
 
-[Di Wu_CV](https://drive.google.com/file/d/16YjxRGzZw2nLXHqmBxzPebefraYYc01V/view?usp=sharing)
+[Download](https://drive.google.com/file/d/16YjxRGzZw2nLXHqmBxzPebefraYYc01V/view?usp=sharing)
