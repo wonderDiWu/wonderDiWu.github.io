@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Di Wu's Homepage"
+title                    : "Homepage"
 title_separator          : "-"
 name                     : &name "Di Wu"
 description              : &description "I am a second-year PhD student at University of St Andrews."
