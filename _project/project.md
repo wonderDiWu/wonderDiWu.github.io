@@ -1,19 +1,14 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /project/
+title: "Projects"
 author_profile: true
 redirect_from: 
   - /md/
-  - /publications.html
+  - /project.html
 ---
 
+## FedAdapt: Adaptive Offloading for IoT Devices in Federated Learning
+FedAdapt is a holistic framework for an IoT-edge environment that surmounts the challenges of accelerating federated learning on resource constrained devices, reducing the impact of stragglers arising from computational heterogeneity of IoT devices and adapting to varying network bandwidth between devices and an edge server - [Github](https://github.com/qub-blesson/FedAdapt)
 
-
-1. [Fedadapt: Adaptive offloading for iot devices in federated learning](https://arxiv.org/pdf/2107.04271.pdf)
-D Wu, R Ullah, P Harvey, P Kilpatrick, I Spence, B Varghese. arXiv preprint arXiv:2107.04271 (2021)
-
-2. [FedFly: Towards Migration in Edge-based Distributed Federated Learning](https://arxiv.org/pdf/2111.01516.pdf)
-R Ullah, D Wu, P Harvey, P Kilpatrick, I Spence, B Varghese. arXiv preprint arXiv:2111.01516 (2021)
-
-3. [EasyQuant: Post-training Quantization via Scale Optimization](https://arxiv.org/pdf/2006.16669.pdf)
-D Wu, Q Tang, Y Zhao, M Zhang, Y Fu, D Zhang. arXiv preprint arXiv:2006.16669 (2020)
+## EasyQuant: Post-training Quantization via Scale Optimization
+EasyQuant(EQ) is an efficient and simple post-training quantization method via effectively optimizing the scales of weights and activations - [Github](https://github.com/deepglint/EasyQuant)

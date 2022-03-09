@@ -1,19 +1,12 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /work/
+title: "Work"
 author_profile: true
 redirect_from: 
   - /md/
-  - /publications.html
+  - /work.html
 ---
 
-
-
-1. [Fedadapt: Adaptive offloading for iot devices in federated learning](https://arxiv.org/pdf/2107.04271.pdf)
-D Wu, R Ullah, P Harvey, P Kilpatrick, I Spence, B Varghese. arXiv preprint arXiv:2107.04271 (2021)
-
-2. [FedFly: Towards Migration in Edge-based Distributed Federated Learning](https://arxiv.org/pdf/2111.01516.pdf)
-R Ullah, D Wu, P Harvey, P Kilpatrick, I Spence, B Varghese. arXiv preprint arXiv:2111.01516 (2021)
-
-3. [EasyQuant: Post-training Quantization via Scale Optimization](https://arxiv.org/pdf/2006.16669.pdf)
-D Wu, Q Tang, Y Zhao, M Zhang, Y Fu, D Zhang. arXiv preprint arXiv:2006.16669 (2020)
+1. DeepGlint Ltd., Algorithm Engineer, Sep. 2018 - Dec. 2019, DNN Pruning, Quantization, Knowledge Distillation, Reinforcement Learning.
+    
+2. ZhiWei Ltd., Data Engineer, Jun. 2015 - Jun. 2017, Social Media Data Mining.

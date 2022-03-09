@@ -1,19 +1,13 @@
 ---
-permalink: /publications/
-title: "Publications"
+permalink: /funding/
+title: "Funding"
 author_profile: true
 redirect_from: 
   - /md/
-  - /publications.html
+  - /funding.html
 ---
 
+1. Queen’s University Belfast Research Scholarship, Oct. 2020 - Sep. 2023, Rakuten Mobile sponsored International scholarship – equivalent to £120,000 covering international tuition fees and living expenses.
 
-
-1. [Fedadapt: Adaptive offloading for iot devices in federated learning](https://arxiv.org/pdf/2107.04271.pdf)
-D Wu, R Ullah, P Harvey, P Kilpatrick, I Spence, B Varghese. arXiv preprint arXiv:2107.04271 (2021)
-
-2. [FedFly: Towards Migration in Edge-based Distributed Federated Learning](https://arxiv.org/pdf/2111.01516.pdf)
-R Ullah, D Wu, P Harvey, P Kilpatrick, I Spence, B Varghese. arXiv preprint arXiv:2111.01516 (2021)
-
-3. [EasyQuant: Post-training Quantization via Scale Optimization](https://arxiv.org/pdf/2006.16669.pdf)
-D Wu, Q Tang, Y Zhao, M Zhang, Y Fu, D Zhang. arXiv preprint arXiv:2006.16669 (2020)
+    
+2. National Undergraduate Training Program, Oct. 2012 - Sep. 2013, The research of model checking method for forestry information system – equivalent to CNY (Chinese Yuan) 10,000 covering expenses of the project.
