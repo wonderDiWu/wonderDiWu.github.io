@@ -7,6 +7,7 @@ redirect_from:
   - /publications.html
 ---
 ---
+- [Communication Efficient DNN Partitioning-based Federated Learning](https://arxiv.org/pdf/2304.05495.pdf),D Wu, R Ullah, P Harvey, P Kilpatrick, I Spence, B Varghese. arXiv preprint arXiv:2304.05495 (2023)
 
 - [FedComm: Understanding Communication Protocols for Edge-based Federated Learning](https://arxiv.org/pdf/2208.08764.pdf),G Cleland, D Wu, B Varghese. IEEE/ACM International Conference on Utility and Cloud Computing (2022)
 
