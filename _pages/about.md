@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, I am a third-year PhD student at University of St Andrews. I received a B.S. degree in Information System and Information Management from Northeast Forestry University, China in 2015, and an M.S. degree in Data Science from University of Southampton, UK in 2018.
+Hi, I am a PhD student at University of St Andrews. Currently, I am in the final stage of my PhD, actively working on my thesis. but I am always open to discussions regarding relevant research or collaboration.
 
 ## Research interests
 
