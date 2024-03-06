@@ -7,7 +7,7 @@ redirect_from:
   - /publications.html
 ---
 ---
-- [EcoFed: Efficient Communication for DNN Partitioning-based Federated Learning](https://arxiv.org/pdf/2304.05495.pdf),D. Wu, R. Ullah, P. Harvey, P. Kilpatrick, I. Spence, B. Varghese. IEEE Transactions on Parallel and Distributed Systems (2024)
+- [EcoFed: Efficient Communication for DNN Partitioning-based Federated Learning](https://arxiv.org/pdf/2304.05495.pdf),D. Wu, R. Ullah, P. Rodgers, P. Kilpatrick, I. Spence, B. Varghese. IEEE Transactions on Parallel and Distributed Systems (2024)
 
 - [FedComm: Understanding Communication Protocols for Edge-based Federated Learning](https://arxiv.org/pdf/2208.08764.pdf),G. Cleland, D. Wu, R. Ullah, B. Varghese. IEEE/ACM International Conference on Utility and Cloud Computing (2022)
 
