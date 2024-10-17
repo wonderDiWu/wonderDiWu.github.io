@@ -9,6 +9,8 @@ redirect_from:
 
 ## Journal Reviewer
    * IEEE Transactions on Parallel and Distributed Systems
+   * IEEE Transactions on Mobile Computing
+   * IEEE Transactions on Services Computing
    * IEEE Transactions on Knowledge and Data Engineering
    * IEEE Internet of Things Journal
    * ACM Computing Surveys
