@@ -13,44 +13,37 @@ redirect_from:
 ---
 
 ## **About Me**  
-I am a **Research Fellow** at the University of St Andrews, specializing in **efficient deep learning systems**, optimizing **training and inference** for resource-constrained devices.  
+I am a **Research Fellow** at the University of St Andrews, specializing in **efficient deep learning systems** and optimizing **training and inference** for resource-constrained devices.  
 
 My research focuses on **distributed machine learning** and **edge computing**, bridging cloud and edge intelligence to enable scalable, real-world AI deployment.  
 
 ---
 
 ## **Member of**  
-<p align="center">
-  <a href="https://edgehub.co.uk/">
-    <img src="LOGO_URL_EDGEHUB" alt="Edge Computing Hub" width="150">
-  </a>
-  &nbsp;&nbsp;&nbsp;&nbsp;
-  <a href="https://edgeaihub.co.uk/">
-    <img src="LOGO_URL_EDGEAIHUB" alt="National Edge AI Hub" width="150">
-  </a>
-</p>  
 
-- [Edge Computing Hub](https://edgehub.co.uk/)  
-- [National Edge AI Hub](https://edgeaihub.co.uk/)  
+| Research Group        | Description |
+|----------------------|-------------|
+| **[Edge Computing Hub](https://edgehub.co.uk/)** | Based at the University of St Andrews in the UK,
+the Hub's mission is to unlock the scientific and societal opportunities
+in the next Internet frontier, Edge computing. |
+| **[National Edge AI Hub](https://edgeaihub.co.uk/)** | EdgeAI solutions for real industry challenges. |
 
 ---
 
 ## **Research Interests**  
 
-### ⚡ Scalable & Efficient Edge AI  
-- Optimizing AI workloads across cloud and edge for real-time, low-power applications.  
-- Exploring **model compression, recursive proofs, and adaptive learning** for resource efficiency.  
+### ⚡ Efficient Edge AI  
+- Optimizing AI workloads on resource-constrained devices.  
+- Exploring **model compression techniques** and **adaptive learning strategies** for efficient ML training and inference.  
 
 ***  
 
 ### 🔗 Federated & Distributed Learning  
-- Designing **privacy-preserving** and **energy-efficient** training paradigms.  
-- Tackling **communication and computation bottlenecks** in decentralized AI.  
+- Designing **federated** and **collaborative** learning paradigms.  
+- Addressing **computation and communication bottlenecks** in decentralized AI systems.  
 
 ---
 
 ## **Let’s Connect!**  
 I’m open to collaborations and discussions on **Edge AI, Federated Learning, and Efficient ML Systems**.  
 Feel free to reach out! 🚀  
-
-
