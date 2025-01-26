@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Di Wu"
+title: "Welcome!"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,10 +8,10 @@ redirect_from:
   - /about.html
 ---
 
-# Welcome!  
-
 ## **Research Fellow, University of St Andrews**  
-[Edge Computing Hub](https://edgehub.co.uk/) | [National Edge AI Hub](https://edgeaihub.co.uk/)  
+**Affiliations:**  
+- [Edge Computing Hub](https://edgehub.co.uk/)  
+- [National Edge AI Hub](https://edgeaihub.co.uk/)  
 
 ---
 
@@ -24,11 +24,11 @@ My research focuses on **distributed machine learning** and **edge computing**, 
 
 ## **Research Interests**  
 
-### **⚡ Scalable & Efficient Edge AI**  
+### ⚡ Scalable & Efficient Edge AI  
 - Optimizing AI workloads across cloud and edge for real-time, low-power applications.  
 - Exploring **model compression, recursive proofs, and adaptive learning** for resource efficiency.  
 
-### **🔗 Federated & Distributed Learning**  
+### 🔗 Federated & Distributed Learning  
 - Designing **privacy-preserving** and **energy-efficient** training paradigms.  
 - Tackling **communication and computation bottlenecks** in decentralized AI.  
 
@@ -38,5 +38,4 @@ My research focuses on **distributed machine learning** and **edge computing**, 
 I’m open to collaborations and discussions on **Edge AI, Federated Learning, and Efficient ML Systems**.  
 Feel free to reach out! 🚀  
 
----
 
