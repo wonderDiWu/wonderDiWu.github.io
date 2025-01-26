@@ -32,7 +32,7 @@ My research focuses on **distributed machine learning** and **edge computing**, 
 ## **Research Interests**  
 
 ### ⚡ Efficient Edge AI  
-- Optimizing AI workloads on resource-constrained devices.  
+- Optimizing AI workloads on **resource-constrained** devices.  
 - Exploring **model compression techniques** and **adaptive learning strategies** for efficient ML training and inference.  
 
 ***  
