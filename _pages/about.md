@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "About me"
+title: "Di Wu"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-### Di  
 #### Research Fellow, University of St Andrews  
 [Edge Computing Hub](https://edgehub.co.uk/) | [National Edge AI Hub](https://edgeaihub.co.uk/)  
 
