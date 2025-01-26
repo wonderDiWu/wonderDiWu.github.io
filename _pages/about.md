@@ -9,21 +9,25 @@ redirect_from:
 ---
 
 # **Di**  
-**Research Fellow, University of St Andrews**  
-_UKRI National Edge AI_
+🚀 **Research Fellow, University of St Andrews**  
+🔬 **UKRI National Edge AI**  
 
 ## **About Me**  
-I am a Research Fellow at the University of St Andrews under the UKRI-funded **National Edge AI** initiative. My research focuses on developing **efficient deep learning systems for edge computing**, including **model compression, federated learning, and system optimization**. My goal is to enable **ubiquitous artificial intelligence** by bridging the gap between cloud-based and edge-based machine learning.
+I am a Research Fellow at the University of St Andrews under the UKRI-funded **National Edge AI** initiative. My research focuses on **distributed machine learning and edge computing**, with the goal of enabling **ubiquitous AI** beyond the cloud. To achieve this, I work on **efficient deep learning systems** that optimize training and inference across edge nodes and end devices.  
 
-## **Research Interests**  
-My work lies at the intersection of **distributed machine learning and edge computing**, aiming to push AI beyond the cloud to work seamlessly across edge nodes and end devices. However, achieving this vision requires overcoming key challenges:  
+## **Research Focus**  
+🔹 **Scalable Edge AI** – Bridging cloud and edge intelligence for seamless AI deployment.  
+🔹 **Efficient Model Partitioning** – Optimizing DNN training & inference across distributed environments.  
+🔹 **Resource-Constrained Learning** – Overcoming computation, communication, and heterogeneity challenges.  
 
-- **High computational and communication overhead**  
-- **Resource constraints on edge devices**  
-- **Heterogeneous and dynamic environments**  
+## **Current Work**  
+I am developing an **efficient DNN partitioning-based system** to address key challenges in edge AI:  
 
-To address these issues, I am currently developing an **efficient DNN partitioning-based system** that optimizes training and inference across distributed edge infrastructures. My broader research interests include **scalable federated learning**, **energy-efficient AI**, and **intelligent system optimization** for real-world edge applications.  
+✅ Reducing **computation & communication overhead**  
+✅ Handling **resource-constrained edge devices**  
+✅ Adapting to **heterogeneous & dynamic environments**  
 
----
+## **Let’s Connect!**  
+I am always open to research collaborations and discussions on **Edge AI, Federated Learning, and Efficient ML Systems**. Feel free to reach out! 🚀  
 
 Feel free to connect with me to discuss research collaborations or explore innovative solutions in **Edge AI**! 🚀 
