@@ -9,16 +9,29 @@ redirect_from:
 ---
 
 ## **Research Fellow, University of St Andrews**  
-**Affiliations:**  
-- [Edge Computing Hub](https://edgehub.co.uk/)  
-- [National Edge AI Hub](https://edgeaihub.co.uk/)  
 
 ---
 
 ## **About Me**  
-I am a **Research Fellow** at the University of St Andrews, working with [Dr. Blesson Varghese](https://www.blessonv.com/) as part of the **UKRI-funded** [National Edge AI Hub](https://edgeaihub.co.uk/) and [Edge Computing Hub](https://edgehub.co.uk/).  
+I am a **Research Fellow** at the University of St Andrews, specializing in **efficient deep learning systems**, optimizing **training and inference** for resource-constrained devices.  
 
-My research focuses on **distributed machine learning** and **edge computing**, with an emphasis on **efficient deep learning systems**. I develop methods for optimizing **training and inference** on resource-constrained devices, bridging cloud and edge intelligence for scalable AI deployment.  
+My research focuses on **distributed machine learning** and **edge computing**, bridging cloud and edge intelligence to enable scalable, real-world AI deployment.  
+
+---
+
+## **Member of**  
+<p align="center">
+  <a href="https://edgehub.co.uk/">
+    <img src="LOGO_URL_EDGEHUB" alt="Edge Computing Hub" width="150">
+  </a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="https://edgeaihub.co.uk/">
+    <img src="LOGO_URL_EDGEAIHUB" alt="National Edge AI Hub" width="150">
+  </a>
+</p>  
+
+- [Edge Computing Hub](https://edgehub.co.uk/)  
+- [National Edge AI Hub](https://edgeaihub.co.uk/)  
 
 ---
 
@@ -27,6 +40,8 @@ My research focuses on **distributed machine learning** and **edge computing**, 
 ### ⚡ Scalable & Efficient Edge AI  
 - Optimizing AI workloads across cloud and edge for real-time, low-power applications.  
 - Exploring **model compression, recursive proofs, and adaptive learning** for resource efficiency.  
+
+***  
 
 ### 🔗 Federated & Distributed Learning  
 - Designing **privacy-preserving** and **energy-efficient** training paradigms.  
