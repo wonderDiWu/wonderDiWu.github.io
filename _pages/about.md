@@ -21,12 +21,11 @@ My research focuses on **distributed machine learning** and **edge computing**, 
 
 ## **Member of**  
 
-| Research Group        | Description |
-|----------------------|-------------|
-| **[Edge Computing Hub](https://edgehub.co.uk/)** | Based at the University of St Andrews in the UK,
-the Hub's mission is to unlock the scientific and societal opportunities
-in the next Internet frontier, Edge computing. |
-| **[National Edge AI Hub](https://edgeaihub.co.uk/)** | EdgeAI solutions for real industry challenges. |
+🔹 **[Edge Computing Hub](https://edgehub.co.uk/)**  
+   - Based at the University of St Andrews in the UK, the Hub’s mission is to unlock the scientific and societal opportunities in the next Internet frontier—Edge computing.  
+
+🔹 **[National Edge AI Hub](https://edgeaihub.co.uk/)**  
+   - Developing Edge AI solutions for real-world industry challenges.
 
 ---
 
