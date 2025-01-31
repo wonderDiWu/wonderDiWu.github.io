@@ -17,7 +17,7 @@ UKRI EPSRC-funded **National Edge Artificial Intelligence Hub** – total fundin
 ### Innovate UK CyberASAP Funding  
 **Aug. 2024 - Jan. 2025**  
 Innovate UK-sponsored **Cyber Security Academic Startup Accelerator Programme (CyberASAP)** – total funding of **£120,000** awarded in two stages.  
-**Role:** Co-Investigator, supporting commercialization and innovation in cybersecurity.
+**Role:** Co-Investigator, leading the development of the LockEyeGaze system to enhance cybersecurity through gaze-based authentication.
 
 ## Scholarships & Travel Grants  
 
