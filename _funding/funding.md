@@ -1,13 +1,11 @@
 ---
 permalink: /funding/
-title: "Funding"
+title: "Funding and Scholarships"
 author_profile: true
 redirect_from: 
   - /md/
   - /funding.html
 ---
-
-# Funding and Scholarships
 
 ## Research Grants & Fellowships
 
@@ -38,3 +36,4 @@ St Leonard's College-sponsored **PGR Travel Grant** – equivalent to **£700**,
 ### National Undergraduate Training Program  
 **Oct. 2012 - Sep. 2013**  
 Funded research on **model checking methods for forestry information systems** – equivalent to **CNY 10,000**, covering project expenses.
+
