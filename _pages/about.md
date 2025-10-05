@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome!"
+title: "Di Wu!"
 excerpt: "About me"
 author_profile: true
 redirect_from:
@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-## **Research Fellow, University of St Andrews**  
+## **Learning makes you a student; creation makes you a master. — Mu Shen Ji**  
 
 ---
 
