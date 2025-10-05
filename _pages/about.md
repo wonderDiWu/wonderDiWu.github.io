@@ -10,7 +10,7 @@ redirect_from:
 
 <h1 align="center">Di Wu · Research Fellow @ University of St Andrews</h1>
 <p align="center">
-  <em>“Learning makes you a student; creation makes you a master.” — <strong>Mu Shen Ji</strong></em>
+  <em>“Learning makes you a student; creating makes you a researcher.” — <strong>My scientific twist on Mu Shen Ji</strong></em>
 </p>
 
 ---
