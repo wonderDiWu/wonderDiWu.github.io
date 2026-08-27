@@ -1,0 +1,29 @@
+sections:
+  - heading: Teaching
+    groups:
+      - heading: University of St Andrews
+        items:
+          - title: CS5052
+            detail: Teaching Assistant
+          - title: CS5939
+            detail: Teaching Assistant
+      - heading: Queen's University Belfast
+        items:
+          - title: CSC3067
+            detail: Lab Demonstrator
+          - title: CSC7061
+            detail: Lab Demonstrator
+  - heading: Supervision
+    groups:
+      - heading: PhD Co-supervision
+        items:
+          - title: University of St Andrews
+            detail: Jiawei Luo, Yizhou Han
+      - heading: MSc Supervision
+        items:
+          - title: University of St Andrews
+            detail: Yizhou Han
+          - title: Queen's University Belfast
+            detail: Gary Cleland
+          - title: Zhejiang University of Technology
+            detail: Wanglei Feng, Weibo He

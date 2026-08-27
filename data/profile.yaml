@@ -1,0 +1,24 @@
+pageTitle: Di Wu | Research Fellow | University of St Andrews
+pageDescription: Research Fellow at the University of St Andrews working on Agentic Edge AI, Federated Learning and Efficient AI Systems.
+hero:
+  name: Di Wu
+  role: Research Fellow @ UKRI National Edge AI Hub
+  institution: University of St Andrews
+  photo: images/avatar.jpg
+  photoAlt: Portrait of Di Wu
+  bio: I'm a Research Fellow at the University of St Andrews and UK National Edge AI Hub, where I work on next-generation Edge AI systems. I completed my PhD in Computer Science at the University of St Andrews in 2024 with a doctoral thesis titled Distributed Machine Learning on Edge Computing Systems. Before pursuing a career in research, I worked as an AI Engineer in industry, developing model compression techniques for the efficient deployment of AI models on edge devices.
+links:
+  - label: CV
+    href: https://drive.google.com/file/d/1f9Lv6D1tB1jO18T2IXzBchFD9laCXE5P/view?usp=sharing
+  - label: Google Scholar
+    href: https://scholar.google.com/citations?user=Iexz254AAAAJ&hl=en&oi=sra
+  - label: GitHub
+    href: https://github.com/wonderDiWu
+  - label: Email
+    href: mailto:dw217@st-andrews.ac.uk
+sections:
+  research: Research Vision
+  publications: Selected Publications
+  awards: Honours and Awards
+  activities: Academic Service
+  teaching: Teaching & Supervision

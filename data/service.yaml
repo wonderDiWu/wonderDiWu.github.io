@@ -1,0 +1,31 @@
+groups:
+  - heading: Conference Program Committee
+    items:
+      - title: IEEE International Conference on Parallel Processing (ICPP), 2026
+      - title: IEEE International Conference on Cloud Computing (IEEE CLOUD), 2026
+      - title: ACM EdgeSys Workshop (co-located with ACM MobiSys), 2026
+  - heading: Journal Reviewer
+    items:
+      - title: IEEE Transactions on Parallel and Distributed Systems
+      - title: IEEE Transactions on Mobile Computing
+      - title: IEEE Transactions on Knowledge and Data Engineering
+      - title: IEEE Internet of Things Journal
+      - title: ACM Computing Surveys
+      - title: Journal of Cloud Computing
+      - title: Journal of Parallel and Distributed Computing
+  - heading: Talks
+    items:
+      - year: 2026
+        title: IEEE Internet of Things Seasonal School
+        detail: Invited Lecturer, Federated Learning in IoT
+      - year: 2023
+        title: UK Systems Workshop
+        detail: Invited Talk, Rethinking Federated Learning Systems
+  - heading: Other Activities
+    items:
+      - year: 2023
+        title: SICSA Conference
+        detail: Reverse Viva Examiner
+      - year: 2021
+        title: ACM SIGCOMM
+        detail: Co-organizer, SIGCOMM Trivia Event

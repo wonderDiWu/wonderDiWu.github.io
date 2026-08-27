@@ -1,0 +1,117 @@
+groups:
+  - id: agentic
+    title: Agentic Edge AI
+    items:
+      - title: End-to-End Model Generation with Large Language Models for Adaptive IoT Application Deployment
+        highlight: LLM-based end-to-end model generation for adaptive IoT application deployment.
+        authors: Zhenyu Wen, Jintao Feng, Nanjie Yao, Di Wu, Cong Wang, Mincheng Wu, Jianbin Qin, Shibo He
+        venue: International Conference on Software Engineering (ICSE)
+        venueShort: ICSE
+        venueTone: conference
+        year: 2026
+        url: https://camps.aptaracorp.com//ACM_PMS/PMS/ACM/ICSE26/246/042f70b3-ed6d-11f0-957d-16ffd757ba29/OUT/icse26-246.pdf
+      - title: Agentic Edge AI
+        highlight: A vision for goal-oriented autonomous Edge AI systems.
+        authors: Di Wu, Jiawei Luo, Yizhou Han, Weisong Shi, Blesson Varghese
+        venue: Preprint
+        venueShort: Preprint
+        venueTone: preprint
+        year: 2026
+        url: https://www.researchgate.net/publication/411632031_Agentic_Edge_AI
+  - id: dnn-partitioning
+    title: DNN Partitioning-based Federated Learning
+    items:
+      - title: FedFreeze: A Dual-phase Layer Freezing Framework for Federated Learning
+        highlight: Dual-phase layer freezing for resource-efficient federated model training.
+        authors: Di Wu, Leon Wong, Blesson Varghese
+        venue: Future Generation Computer Systems
+        venueShort: FGCS
+        venueTone: journal
+        year: 2025
+        url: https://doi.org/10.1016/j.future.2025.108250
+      - title: EMO: Edge Model Overlays to Scale Model Size in Federated Learning
+        highlight: Scaling federated model capacity using edge model overlays.
+        authors: Di Wu, Weibo He, Wanglei Feng, Zhenyu Wen, Bin Qian, Blesson Varghese
+        venue: IEEE International Conference on Distributed Computing Systems
+        venueShort: ICDCS
+        venueTone: conference
+        year: 2025
+        url: https://doi.org/10.1109/ICDCSW63273.2025.00014
+      - title: EcoFed: Efficient Communication for DNN Partitioning-based Federated Learning
+        highlight: Communication-efficient DNN partitioning with activation replay and compression.
+        authors: Di Wu, Rehmat Ullah, Philip Rodgers, Peter Kilpatrick, Ivor Spence, Blesson Varghese
+        venue: IEEE Transactions on Parallel and Distributed Systems
+        venueShort: TPDS
+        venueTone: journal
+        year: 2024
+        url: https://doi.org/10.1109/TPDS.2024.3349617
+      - title: FedAdapt: Adaptive Offloading for IoT Devices in Federated Learning
+        highlight: Adaptive computation offloading for efficient edge federated learning.
+        authors: Di Wu, Rehmat Ullah, Paul Harvey, Peter Kilpatrick, Ivor Spence, Blesson Varghese
+        venue: IEEE Internet of Things Journal
+        venueShort: IoTJ
+        venueTone: journal
+        year: 2022
+        url: https://doi.org/10.1109/JIOT.2022.3176469
+  - id: classic-federated-learning
+    title: Classic Federated Learning
+    items:
+      - title: FLMarket: Enabling Privacy-preserved Pre-training Data Pricing for Federated Learning
+        highlight: Privacy-preserving pre-training data pricing for sustainable federated learning markets.
+        authors: Zhenyu Wen, Wanglei Feng, Di Wu, Haozhen Hu, Chang Xu, Bin Qian, Zhen Hong, Cong Wang, Shouling Ji
+        venue: ACM SIGKDD Conference on Knowledge Discovery and Data Mining
+        venueShort: KDD
+        venueTone: conference
+        year: 2025
+        url: https://doi.org/10.1145/3690624.3709346
+      - title: DriftGuard: Mitigating Asynchronous Data Drift in Federated Learning
+        highlight: Cost-efficient federated adaptation to asynchronous data drift across edge devices.
+        authors: Yizhou Han, Di Wu, Blesson Varghese
+        venue: Preprint
+        venueShort: Preprint
+        venueTone: preprint
+        year: 2026
+        url: https://arxiv.org/abs/2603.18872
+      - title: zkVFL: Verifiable Federated Learning for Free-rider Attacks via Efficient Zero-Knowledge Proofs
+        highlight: Verifiable federated learning against free riders using efficient zero-knowledge proofs.
+        authors: Jiaxi Liu, Lin Sun, Tianyu Kang, Di Wu, Yulun Song, Yunlong Xie, Li Guo
+        venue: IEEE Internet of Things Journal
+        venueShort: IoTJ
+        venueTone: journal
+        year: 2026
+        url: https://doi.org/10.1109/JIOT.2025.3638886
+      - title: FedFly: Toward Migration in Edge-based Distributed Federated Learning
+        highlight: Seamless federated model migration as edge devices move between servers.
+        authors: Rehmat Ullah, Di Wu, Paul Harvey, Peter Kilpatrick, Ivor Spence, Blesson Varghese
+        venue: IEEE Communications Magazine
+        venueShort: ComMag
+        venueTone: journal
+        year: 2022
+        url: https://doi.org/10.1109/MCOM.003.2100964
+      - title: FedComm: Understanding Communication Protocols for Edge-based Federated Learning
+        highlight: Benchmarking communication protocols for efficient edge-based federated learning.
+        authors: Gary Cleland, Di Wu, Rehmat Ullah, Blesson Varghese
+        venue: IEEE/ACM International Conference on Utility and Cloud Computing
+        venueShort: UCC
+        venueTone: conference
+        year: 2023
+        url: https://doi.org/10.1109/UCC56403.2022.00018
+  - id: efficient-ai-systems
+    title: Efficient AI Systems
+    items:
+      - title: Multi-DNN Inference of Sparse Models on Edge SoCs
+        highlight: Efficient sparse multi-DNN inference on heterogeneous edge systems.
+        authors: Jiawei Luo, Di Wu, Simon Dobson, Blesson Varghese
+        venue: Preprint
+        venueShort: Preprint
+        venueTone: preprint
+        year: 2026
+        url: https://arxiv.org/abs/2603.09642
+      - title: EasyQuant: Post-training Quantization via Scale Optimization
+        highlight: Accurate post-training model quantization through efficient scale optimization.
+        authors: Di Wu, Qi Tang, Yongle Zhao, Ming Zhang, Ying Fu, Debing Zhang
+        venue: Preprint
+        venueShort: Preprint
+        venueTone: preprint
+        year: 2020
+        url: https://arxiv.org/abs/2006.16669

@@ -1,0 +1,16 @@
+name = "diwu-visitor-logging"
+main = "src/index.js"
+compatibility_date = "2026-08-26"
+workers_dev = false
+
+[[kv_namespaces]]
+binding = "VISITOR_LOGS"
+id = "40a3f5f922c742b790abd952c2a7f91b"
+
+[[routes]]
+pattern = "diwu.uk/*"
+zone_name = "diwu.uk"
+
+[[routes]]
+pattern = "www.diwu.uk/*"
+zone_name = "diwu.uk"
