@@ -535,6 +535,14 @@ function setMeta(name, content, attribute = "name") {
 }
 
 function updateMetadata(profile) {
+  const structuredData = document.querySelector('script[type="application/ld+json"]');
+  if (structuredData) {
+    const person = JSON.parse(structuredData.textContent);
+    person.jobTitle = profile.hero.role;
+    person.affiliation.name = profile.hero.institution;
+    structuredData.textContent = JSON.stringify(person);
+  }
+
   if (profile.pageTitle) {
     document.title = profile.pageTitle;
   }
